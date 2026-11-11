@@ -30,17 +30,17 @@ My goal is to create reliable, efficient, and meaningful digital experiences.
 
 ## FEATURED PROJECTS
 
-### 🎮 RIFT DIÁRIO
+### RIFT DIÁRIO
 **Gaming Content Community**
 
 A digital project dedicated to the gaming universe, focused on gaming content and community engagement.
 
-### 🏆 WR COMPETITIVE
+###  WR COMPETITIVE
 **Wild Rift X1 Ranking Platform**
 
 A competitive ranking platform designed for Wild Rift X1 players, bringing organization and competition to the esports community.
 
-### 💰 FINORA
+### FINORA
 **Personal Finance Management Application**
 
 A financial management and planning application designed to help users organize their finances and manage their money, using Firebase.
