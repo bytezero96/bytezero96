@@ -1,16 +1,49 @@
-## Hi there 👋
+# HENRIQUE LUZÓRIO
 
-<!--
-**bytezero96/bytezero96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `Developer | Digital Projects & Technology`
 
-Here are some ideas to get you started:
+Building digital projects through technology, creativity, and functional solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## PROJECTS
+
+### 🎮 RIFT DIÁRIO
+`GAMING` `CONTENT` `COMMUNITY`
+
+A project dedicated to the gaming universe.
+
+### 🏆 WR COMPETITIVE
+`ESPORTS` `WILD RIFT` `X1 RANKING`
+
+A competitive X1 ranking platform for Wild Rift players.
+
+### 💰 FINORA
+`FINTECH` `FINANCIAL MANAGEMENT` `FIREBASE`
+
+A personal finance management and financial planning application.
+
+---
+
+## TECHNOLOGIES
+
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
+
+---
+
+## CURRENTLY
+
+`Creating · Developing · Improving`
+
+---
+
+<p align="center">
+  <sub>HENRIQUE LUZÓRIO · BYTEZERO96</sub>
+</p>
