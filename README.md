@@ -1,49 +1,106 @@
+
+<div align="center">
+
 # HENRIQUE LUZÓRIO
 
-### `Developer | Digital Projects & Technology`
+### Junior Software Developer
 
-Building digital projects through technology, creativity, and functional solutions.
+Building digital solutions through technology, creativity, and continuous learning.
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-bytezero96-181717?style=for-the-badge&logo=github)](https://github.com/bytezero96)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriquelozorioo@gmail.com)
+
+</div>
 
 ---
 
-## PROJECTS
+## ABOUT ME
+
+I'm a Junior Software Developer passionate about technology, software development, and digital innovation.
+
+I enjoy turning ideas into functional applications, building digital products, and developing practical solutions through code.
+
+I'm constantly learning, improving my technical skills, and exploring new technologies to grow as a developer.
+
+My goal is to create reliable, efficient, and meaningful digital experiences.
+
+---
+
+## FEATURED PROJECTS
 
 ### 🎮 RIFT DIÁRIO
-`GAMING` `CONTENT` `COMMUNITY`
+**Gaming Content Community**
 
-A project dedicated to the gaming universe.
+A digital project dedicated to the gaming universe, focused on gaming content and community engagement.
 
 ### 🏆 WR COMPETITIVE
-`ESPORTS` `WILD RIFT` `X1 RANKING`
+**Wild Rift X1 Ranking Platform**
 
-A competitive X1 ranking platform for Wild Rift players.
+A competitive ranking platform designed for Wild Rift X1 players, bringing organization and competition to the esports community.
 
 ### 💰 FINORA
-`FINTECH` `FINANCIAL MANAGEMENT` `FIREBASE`
+**Personal Finance Management Application**
 
-A personal finance management and financial planning application.
+A financial management and planning application designed to help users organize their finances and manage their money, using Firebase.
 
 ---
 
-## TECHNOLOGIES
+## TECHNOLOGIES & TOOLS
 
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
+<div align="center">
+
+### Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Database & Backend
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 ---
 
 ## CURRENTLY
 
-`Creating · Developing · Improving`
+- Developing personal and digital projects.
+- Improving my software development skills.
+- Exploring technologies and new development approaches.
+- Building practical solutions and expanding my knowledge.
 
 ---
 
-<p align="center">
-  <sub>HENRIQUE LUZÓRIO · BYTEZERO96</sub>
-</p>
+## CONTACT
+
+<div align="center">
+
+**Let's connect and build something great.**
+
+📧 [henriquelozorioo@gmail.com](mailto:henriquelozorioo@gmail.com)
+
+💻 [GitHub – @bytezero96](https://github.com/bytezero96)
+
+</div>
+
+---
+
+<div align="center">
+
+### BUILDING · DEVELOPING · IMPROVING
+
+**HENRIQUE LUZÓRIO**
+
+BYTEZERO96
+
+</div>
